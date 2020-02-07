@@ -1,6 +1,6 @@
 Device Specific Media Queries
 
-Creating responsive websites are more important in this modern user engaging era, nowadays mobile devices took the major part that's good.  But with so many mobile devices and tablets with different display resolution & PPI..?  
+Creating responsive websites are more important in this modern user engaging platform, nowadays mobile devices took major part that's good.  But with so many mobile devices and tablets with different display resolution & PPI..?  
 
 It's not finest loop to customize creative webstie's.
 
